@@ -69,12 +69,12 @@ html {
     background-color 0.3s ease-in-out;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
     background: var(--dark-mode-bg-color);
     color: var(--dark-mode-text-color);
   }
-}
+} */
 
 .dark-theme {
   background: var(--dark-mode-bg-color);
